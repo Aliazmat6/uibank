@@ -1,0 +1,14 @@
+Project Setup Pre-requisite:
+1. Windows 10 PC
+2. Latest JDK Installed.
+3. Eclipse installed with maven and testNG plugins. 
+4. Chrome Browser Installed.
+5. Microsoft Excel installed. 
+6. Place Datasheet.xlsx in C drive. 
+7. Download chromdriver.exe from https://chromedriver.chromium.org/downloads and place it on C root. Please make sure to download same version as installed on PC. 
+=========================================================
+Executing project:
+1. Clone project repo from git hub 
+2. Import project in eclipse
+3. Right Click testng.xml under src/main/resources. 
+4. Run as testngSuite. 
