@@ -3,12 +3,13 @@ Project Setup Pre-requisite:
 2. Latest JDK Installed.
 3. Eclipse installed with maven and testNG plugins. 
 4. Chrome Browser Installed.
-5. Microsoft Excel installed. 
-6. Place Datasheet.xlsx in C drive. 
+5. Microsoft Excel version above 2007 is installed. 
+6. Place Datasheet.xlsx in C drive on root. (only .xlsx is used) 
 7. Download chromdriver.exe from https://chromedriver.chromium.org/downloads and place it on C root. Please make sure to download same version as installed on PC. 
 =========================================================
 Executing project:
 1. Clone project repo from git hub 
 2. Import project in eclipse
-3. Right Click testng.xml under src/main/resources. 
-4. Run as testngSuite. 
+3. Also you must make sure that the Installed JRE setting is correctly pointing to a JDK path on your system. You can change it from the Preferences window.
+4. Right Click testng.xml under src/main/resources. 
+5. Run as testngSuite. 
